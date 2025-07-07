@@ -123,11 +123,11 @@
       example below.
 
       ```
-      OWNER_NUMBER="23412345689"
-      SESSION_ID = "yoursessionid"
+      OWNER_NUMBER="2348104029966"
+      SESSION_ID = "kord_ai-yFNaxg7KdQ3yssX2"
       OWNER_NAME = "M3264"
       PREFIX = ["."], for multiple use [".", "/"]
-      MODE = "public"
+      MODE = "private"
       
       ```
 
